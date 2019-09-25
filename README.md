@@ -13,7 +13,7 @@
 > plugin.config.js 导入插件模块
 >
 > webpack.dev.config.js: webpack处理模块
->
+
 
 **2.`dist`文件夹（编译后页面生成的文件夹）**
 
@@ -33,7 +33,7 @@
 >
 > index.html: 首页
 
-**4.`package.json`npm插件**
+**4.`package.json`（npm插件）**
 
 ### 二、使用说明
 
@@ -44,4 +44,7 @@
 ### 三、命令
 **1.`npm run build`**生成src编译后的文件即`dist文件夹`
 **2.`npm run dev`**拉起浏览器
-本模板为 <u>刘洋</u> 编写所有
+
+### 特别说明 
+**本模板为 <u>刘洋</u> 编写所有**
+
